@@ -3,7 +3,7 @@ const API_URL =
 
 let articles = [];
 let currentPage = 1;
-const pageSize = 8;
+const pageSize = 9;
 
 const articlesGrid = document.getElementById("articles-grid");
 const loader = document.getElementById("loader");
